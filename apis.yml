@@ -1,7 +1,11 @@
 aid: dr-horton
-url: https://raw.githubusercontent.com/api-evangelist/dr-horton/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/dr-horton/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.dr-horton.com
+description: >-
+  D.R. Horton is the largest homebuilder by volume in the United States, building
+  and selling single-family homes in dozens of states across multiple price points.
