@@ -8,7 +8,18 @@ description: >-
   price points. The company is a Fortune 500 enterprise with affiliated
   financial services including DHI Mortgage, DHI Title, and DRH Insurance.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dr-horton.png
 tags:
   - Fortune 500
   - Homebuilder
