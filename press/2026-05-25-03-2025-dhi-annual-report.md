@@ -1,7 +1,9 @@
 ---
 title: 2025 DHI Annual Report
 url: https://investor.drhorton.com/~/media/Files/D/D-R-Horton-IR/documents/quarterly-reports/2025-dhi-annual-report.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"D.R. Horton" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Prophetic to Power D.R. Horton's AI-Driven Land ...
 url: https://www.prnewswire.com/news-releases/prophetic-to-power-dr-hortons-ai-driven-land-acquisition-at-national-scale-302610017.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"D.R. Horton" press release artificial intelligence'
 position: 1
 source: serpapi-google

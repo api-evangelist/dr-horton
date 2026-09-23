@@ -1,7 +1,9 @@
 ---
 title: D.R. Horton Says Wary Buyers Will Continue Demanding ...
 url: https://www.wsj.com/business/earnings/d-r-horton-profit-falls-as-housing-market-remains-stagnant-8aa97f24
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"D.R. Horton" press release artificial intelligence'
 position: 4
 source: serpapi-google

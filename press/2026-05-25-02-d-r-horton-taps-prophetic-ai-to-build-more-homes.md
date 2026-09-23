@@ -1,7 +1,9 @@
 ---
 title: D.R. Horton taps Prophetic AI to build more homes
 url: https://www.cnbc.com/2025/11/14/dr-horton-taps-prophetic-ai-to-build-more-homes.html
-date: '2026-05-25'
+published: '2025-11-14'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"D.R. Horton" press release artificial intelligence'
 position: 2
 source: serpapi-google
